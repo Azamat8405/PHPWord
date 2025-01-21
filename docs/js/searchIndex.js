@@ -1,6 +1,26 @@
 Search.appendIndex(
     [
                 {
+            "fqsen": "\\PhpOffice\\PhpWord\\Autoloader",
+            "name": "Autoloader",
+            "summary": "",
+            "url": "classes/PhpOffice-PhpWord-Autoloader.html"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Autoloader\u003A\u003Aregister\u0028\u0029",
+            "name": "register",
+            "summary": "",
+            "url": "classes/PhpOffice-PhpWord-Autoloader.html#method_register"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Autoloader\u003A\u003Aautoload\u0028\u0029",
+            "name": "autoload",
+            "summary": "",
+            "url": "classes/PhpOffice-PhpWord-Autoloader.html#method_autoload"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Autoloader\u003A\u003ANAMESPACE_PREFIX",
+            "name": "NAMESPACE_PREFIX",
+            "summary": "",
+            "url": "classes/PhpOffice-PhpWord-Autoloader.html#constant_NAMESPACE_PREFIX"
+        },                {
             "fqsen": "\\PhpOffice\\PhpWord\\Collection\\AbstractCollection",
             "name": "AbstractCollection",
             "summary": "Collection\u0020abstract\u0020class.",
@@ -3161,6 +3181,16 @@ Search.appendIndex(
             "summary": "Set\u0020default\u0020font\u0020name.",
             "url": "classes/PhpOffice-PhpWord-PhpWord.html#method_setDefaultFontName"
         },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\PhpWord\u003A\u003AgetDefaultAsianFontName\u0028\u0029",
+            "name": "getDefaultAsianFontName",
+            "summary": "Get\u0020default\u0020asian\u0020font\u0020name.",
+            "url": "classes/PhpOffice-PhpWord-PhpWord.html#method_getDefaultAsianFontName"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\PhpWord\u003A\u003AsetDefaultAsianFontName\u0028\u0029",
+            "name": "setDefaultAsianFontName",
+            "summary": "Set\u0020default\u0020font\u0020name.",
+            "url": "classes/PhpOffice-PhpWord-PhpWord.html#method_setDefaultAsianFontName"
+        },                {
             "fqsen": "\\PhpOffice\\PhpWord\\PhpWord\u003A\u003AgetDefaultFontSize\u0028\u0029",
             "name": "getDefaultFontSize",
             "summary": "Get\u0020default\u0020font\u0020size.",
@@ -4326,10 +4356,20 @@ Search.appendIndex(
             "summary": "Get\u0020default\u0020font\u0020name.",
             "url": "classes/PhpOffice-PhpWord-Settings.html#method_getDefaultFontName"
         },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Settings\u003A\u003AgetDefaultAsianFontName\u0028\u0029",
+            "name": "getDefaultAsianFontName",
+            "summary": "Get\u0020default\u0020font\u0020name.",
+            "url": "classes/PhpOffice-PhpWord-Settings.html#method_getDefaultAsianFontName"
+        },                {
             "fqsen": "\\PhpOffice\\PhpWord\\Settings\u003A\u003AsetDefaultFontName\u0028\u0029",
             "name": "setDefaultFontName",
             "summary": "Set\u0020default\u0020font\u0020name.",
             "url": "classes/PhpOffice-PhpWord-Settings.html#method_setDefaultFontName"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Settings\u003A\u003AsetDefaultAsianFontName\u0028\u0029",
+            "name": "setDefaultAsianFontName",
+            "summary": "",
+            "url": "classes/PhpOffice-PhpWord-Settings.html#method_setDefaultAsianFontName"
         },                {
             "fqsen": "\\PhpOffice\\PhpWord\\Settings\u003A\u003AgetDefaultFontSize\u0028\u0029",
             "name": "getDefaultFontSize",
@@ -4485,6 +4525,11 @@ Search.appendIndex(
             "name": "defaultFontName",
             "summary": "Default\u0020font\u0020name.",
             "url": "classes/PhpOffice-PhpWord-Settings.html#property_defaultFontName"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Settings\u003A\u003A\u0024defaultAsianFontName",
+            "name": "defaultAsianFontName",
+            "summary": "Default\u0020font\u0020name.",
+            "url": "classes/PhpOffice-PhpWord-Settings.html#property_defaultAsianFontName"
         },                {
             "fqsen": "\\PhpOffice\\PhpWord\\Settings\u003A\u003A\u0024defaultFontSize",
             "name": "defaultFontSize",
@@ -5010,6 +5055,11 @@ Search.appendIndex(
             "name": "convertRgb",
             "summary": "",
             "url": "classes/PhpOffice-PhpWord-Shared-Html.html#method_convertRgb"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Shared\\Html\u003A\u003AconvertHtmlSize\u0028\u0029",
+            "name": "convertHtmlSize",
+            "summary": "Transform\u0020HTML\u0020sizes\u0020\u0028pt,\u0020px\u0029\u0020in\u0020pixels.",
+            "url": "classes/PhpOffice-PhpWord-Shared-Html.html#method_convertHtmlSize"
         },                {
             "fqsen": "\\PhpOffice\\PhpWord\\Shared\\Html\u003A\u003ARGB_REGEXP",
             "name": "RGB_REGEXP",
@@ -16181,6 +16231,16 @@ Search.appendIndex(
             "summary": "",
             "url": "namespaces/default.html"
         },                {
+            "fqsen": "\\PhpOffice\\PhpWord",
+            "name": "PhpWord",
+            "summary": "",
+            "url": "namespaces/phpoffice-phpword.html"
+        },                {
+            "fqsen": "\\PhpOffice",
+            "name": "PhpOffice",
+            "summary": "",
+            "url": "namespaces/phpoffice.html"
+        },                {
             "fqsen": "\\PhpOffice\\PhpWord\\Collection",
             "name": "Collection",
             "summary": "",
@@ -16205,16 +16265,6 @@ Search.appendIndex(
             "name": "Exception",
             "summary": "",
             "url": "namespaces/phpoffice-phpword-exception.html"
-        },                {
-            "fqsen": "\\PhpOffice\\PhpWord",
-            "name": "PhpWord",
-            "summary": "",
-            "url": "namespaces/phpoffice-phpword.html"
-        },                {
-            "fqsen": "\\PhpOffice",
-            "name": "PhpOffice",
-            "summary": "",
-            "url": "namespaces/phpoffice.html"
         },                {
             "fqsen": "\\PhpOffice\\PhpWord\\Metadata",
             "name": "Metadata",
