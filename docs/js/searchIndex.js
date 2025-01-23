@@ -7496,6 +7496,46 @@ Search.appendIndex(
             "summary": "Get\u0020noWrap.",
             "url": "classes/PhpOffice-PhpWord-Style-Cell.html#method_getNoWrap"
         },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Cell\u003A\u003AgetPaddingTop\u0028\u0029",
+            "name": "getPaddingTop",
+            "summary": "Get\u0020style\u0020padding\u002Dtop.",
+            "url": "classes/PhpOffice-PhpWord-Style-Cell.html#method_getPaddingTop"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Cell\u003A\u003AsetPaddingTop\u0028\u0029",
+            "name": "setPaddingTop",
+            "summary": "Set\u0020style\u0020padding\u002Dtop.",
+            "url": "classes/PhpOffice-PhpWord-Style-Cell.html#method_setPaddingTop"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Cell\u003A\u003AgetPaddingBottom\u0028\u0029",
+            "name": "getPaddingBottom",
+            "summary": "Get\u0020style\u0020padding\u002Dbottom.",
+            "url": "classes/PhpOffice-PhpWord-Style-Cell.html#method_getPaddingBottom"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Cell\u003A\u003AsetPaddingBottom\u0028\u0029",
+            "name": "setPaddingBottom",
+            "summary": "Set\u0020style\u0020padding\u002Dbottom.",
+            "url": "classes/PhpOffice-PhpWord-Style-Cell.html#method_setPaddingBottom"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Cell\u003A\u003AgetPaddingLeft\u0028\u0029",
+            "name": "getPaddingLeft",
+            "summary": "Get\u0020style\u0020padding\u002Dleft.",
+            "url": "classes/PhpOffice-PhpWord-Style-Cell.html#method_getPaddingLeft"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Cell\u003A\u003AsetPaddingLeft\u0028\u0029",
+            "name": "setPaddingLeft",
+            "summary": "Set\u0020style\u0020padding\u002Dleft.",
+            "url": "classes/PhpOffice-PhpWord-Style-Cell.html#method_setPaddingLeft"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Cell\u003A\u003AgetPaddingRight\u0028\u0029",
+            "name": "getPaddingRight",
+            "summary": "Get\u0020style\u0020padding\u002Dright.",
+            "url": "classes/PhpOffice-PhpWord-Style-Cell.html#method_getPaddingRight"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Cell\u003A\u003AsetPaddingRight\u0028\u0029",
+            "name": "setPaddingRight",
+            "summary": "Set\u0020style\u0020padding\u002Dright.",
+            "url": "classes/PhpOffice-PhpWord-Style-Cell.html#method_setPaddingRight"
+        },                {
             "fqsen": "\\PhpOffice\\PhpWord\\Style\\Cell\u003A\u003ATEXT_DIR_LRTB",
             "name": "TEXT_DIR_LRTB",
             "summary": "Left\u0020to\u0020Right,\u0020Top\u0020to\u0020Bottom.",
@@ -7545,6 +7585,26 @@ Search.appendIndex(
             "name": "vAlign",
             "summary": "Vertical\u0020align\u0020\u0028top,\u0020center,\u0020both,\u0020bottom\u0029.",
             "url": "classes/PhpOffice-PhpWord-Style-Cell.html#property_vAlign"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Cell\u003A\u003A\u0024paddingTop",
+            "name": "paddingTop",
+            "summary": "",
+            "url": "classes/PhpOffice-PhpWord-Style-Cell.html#property_paddingTop"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Cell\u003A\u003A\u0024paddingBottom",
+            "name": "paddingBottom",
+            "summary": "",
+            "url": "classes/PhpOffice-PhpWord-Style-Cell.html#property_paddingBottom"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Cell\u003A\u003A\u0024paddingLeft",
+            "name": "paddingLeft",
+            "summary": "",
+            "url": "classes/PhpOffice-PhpWord-Style-Cell.html#property_paddingLeft"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Cell\u003A\u003A\u0024paddingRight",
+            "name": "paddingRight",
+            "summary": "",
+            "url": "classes/PhpOffice-PhpWord-Style-Cell.html#property_paddingRight"
         },                {
             "fqsen": "\\PhpOffice\\PhpWord\\Style\\Cell\u003A\u003A\u0024textDirection",
             "name": "textDirection",
@@ -10376,35 +10436,70 @@ Search.appendIndex(
             "summary": "Set\u0020style\u0020for\u0020next\u0020paragraph.",
             "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_setNext"
         },                {
-            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AgetIndentation\u0028\u0029",
-            "name": "getIndentation",
-            "summary": "Get\u0020indentation.",
-            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_getIndentation"
-        },                {
-            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AsetIndentation\u0028\u0029",
-            "name": "setIndentation",
-            "summary": "Set\u0020shading.",
-            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_setIndentation"
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AgetHanging\u0028\u0029",
+            "name": "getHanging",
+            "summary": "Get\u0020hanging.",
+            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_getHanging"
         },                {
             "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AgetIndent\u0028\u0029",
             "name": "getIndent",
             "summary": "Get\u0020indentation.",
             "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_getIndent"
         },                {
-            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AsetIndent\u0028\u0029",
-            "name": "setIndent",
-            "summary": "Set\u0020indentation.",
-            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_setIndent"
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AgetIndentation\u0028\u0029",
+            "name": "getIndentation",
+            "summary": "Get\u0020indentation.",
+            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_getIndentation"
         },                {
-            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AgetHanging\u0028\u0029",
-            "name": "getHanging",
-            "summary": "Get\u0020hanging.",
-            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_getHanging"
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AgetIndentFirstLine\u0028\u0029",
+            "name": "getIndentFirstLine",
+            "summary": "Get\u0020firstLine.",
+            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_getIndentFirstLine"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AgetIndentLeft\u0028\u0029",
+            "name": "getIndentLeft",
+            "summary": "Get\u0020left\u0020indentation.",
+            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_getIndentLeft"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AgetIndentRight\u0028\u0029",
+            "name": "getIndentRight",
+            "summary": "Get\u0020right\u0020indentation.",
+            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_getIndentRight"
         },                {
             "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AsetHanging\u0028\u0029",
             "name": "setHanging",
             "summary": "Set\u0020hanging.",
             "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_setHanging"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AsetIndent\u0028\u0029",
+            "name": "setIndent",
+            "summary": "Set\u0020indentation.",
+            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_setIndent"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AsetIndentation\u0028\u0029",
+            "name": "setIndentation",
+            "summary": "Set\u0020indentation.",
+            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_setIndentation"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AsetIndentHanging\u0028\u0029",
+            "name": "setIndentHanging",
+            "summary": "Set\u0020hanging\u0020indentation.",
+            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_setIndentHanging"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AsetIndentFirstLine\u0028\u0029",
+            "name": "setIndentFirstLine",
+            "summary": "Set\u0020firstline\u0020indentation.",
+            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_setIndentFirstLine"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AsetIndentLeft\u0028\u0029",
+            "name": "setIndentLeft",
+            "summary": "Set\u0020left\u0020indentation.",
+            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_setIndentLeft"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AsetIndentRight\u0028\u0029",
+            "name": "setIndentRight",
+            "summary": "Set\u0020right\u0020indentation.",
+            "url": "classes/PhpOffice-PhpWord-Style-Paragraph.html#method_setIndentRight"
         },                {
             "fqsen": "\\PhpOffice\\PhpWord\\Style\\Paragraph\u003A\u003AgetSpace\u0028\u0029",
             "name": "getSpace",
