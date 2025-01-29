@@ -675,6 +675,27 @@
   
   
     <li class="md-nav__item">
+      <a href="elements/ruby.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ruby
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="elements/text.html" class="md-nav__link">
         
   
@@ -2271,6 +2292,10 @@ Currently, three renderers are supported: </p>
 <p>In the code below, you can see an example of setting MPDF as the desired PDF renderer.</p>
 <div class="highlight"><pre><span></span><code><span class="x">Settings::setPdfRendererName(Settings::PDF_RENDERER_MPDF);</span>
 <span class="x">Settings::setPdfRendererPath(__DIR__ . &#39;/../vendor/mpdf/mpdf&#39;);</span>
+</code></pre></div>
+<p>or you can edit settings in phpword.ini ( or phpword.ini.dist) file.</p>
+<div class="highlight"><pre><span></span><code><span class="na">pdfRendererName</span><span class="w">       </span><span class="o">=</span><span class="w"> </span><span class="s">MPDF</span><span class="w">    </span><span class="c1">;DomPDF, TCPDF, MPDF</span>
+<span class="na">pdfRendererPath</span><span class="w">       </span><span class="o">=</span><span class="w"> </span><span class="s">/path/to/your/renderer/folder</span>
 </code></pre></div>
 <h2 id="rtf">RTF</h2>
 <p>The name of the writer is <code>RTF</code>.</p>
